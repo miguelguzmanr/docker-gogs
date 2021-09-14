@@ -1,2 +1,3 @@
-# docker-gogs
- A painless self-hosted Git service.
+# Gogs
+
+A docker image for the painless self-hosted Git service.
